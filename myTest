@@ -1,10 +1,10 @@
 #include<iostream>
-#include<string>
-
 using namespace std;
 
 int main(){
     system("cls");
-    cout<<"Hello, Github!"<<endl;
+
+    cout<<"Hello test..."<<endl;
+
     return 0;
 }
