@@ -7,5 +7,6 @@ int main(){
       system("cls");
 
       cout << " Jong yy tha........" << endl;
+      cout<<"hello"<<endl;
       return 0;
 }
